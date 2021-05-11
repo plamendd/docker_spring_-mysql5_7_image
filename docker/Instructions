@@ -1,0 +1,4 @@
+# 1 - in project forlder - sudo ./gradlew clean build
+# 2 - docker build -t luchob/docker-sample:v3 -f docker/Dockerfile .
+# 3 - cd docker/
+# 4 -   in docker folder - docker-compose -f docker-compose.yaml up
